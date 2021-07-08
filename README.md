@@ -8,7 +8,7 @@ To run the application you will need a [Twilio account](https://www.twilio.com/t
 
 ```bash
 git clone https://github.com/rorodriguez116/tulio-video-calling-web
-cd twilio-video-react-hooks
+cd tulio-video-calling-web
 ```
 
 Install the dependencies:
